@@ -6,3 +6,9 @@ multiplication = num1 * num2
 
 print("Addition:", addition)
 print("Multiplication:", multiplication)
+
+subtraction = num1 - num2
+division = num1 / num2
+
+print("Subtraction:", subtraction)
+print("Division:", division)
